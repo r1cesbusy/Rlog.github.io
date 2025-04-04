@@ -3,7 +3,7 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "blowfish" # UNCOMMENT THIS LINE
-baseURL = "https://github.com/r1cesbusy/Rices.github.io"
+baseURL = "https://github.com/r1cesbusy/Rlog.github.io"
 defaultContentLanguage = "zh-cn"
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
