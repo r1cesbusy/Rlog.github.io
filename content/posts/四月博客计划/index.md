@@ -1,10 +1,8 @@
 ---
 title: "四月项目计划"
-summary: "介绍一下这个月的目标"
-tag: ["四月"]
-catagory: ["四月"]
-description: "介绍一下这个月的目标"
+summary: "大概是四月要发布的内容"
 date: "2025-04-07"
+draft: false
 ---
 
 ### 四月项目计划
@@ -21,7 +19,7 @@ date: "2025-04-07"
 
 后期我打算把我高二构思的一个项目大一小画了一点但搁置的没怎么想完的一个中长篇漫画。但我不透露是什么，因为……前两个我都不一定能画得完。
 
-原先我是打算在百度贴吧[（打个广告，点点关注xdm）]https://tieba.baidu.com/home/main?id=tb.1.16f9ee45.e0eN6DImtflN0kwD9uhZtw?t=1725557598&fr=index更新这些漫画的。但我想了下我要把我的账号变成无情的水贴机器，我得拿这个号加经验~~和骂人~~。所以我打算就在博客单方面更新了，以后我的小伙伴们大概只能在这里看到我瞎几把画的东西了，**虽然压根没人想看**。
+原先我是打算在百度贴吧[（打个广告，点点关注xdm）](https://tieba.baidu.com/home/main?id=tb.1.16f9ee45.e0eN6DImtflN0kwD9uhZtw?t=1725557598&fr=index)更新这些漫画的。但我想了下我要把我的账号变成无情的水贴机器，我得拿这个号加经验~~和骂人~~。所以我打算就在博客单方面更新了，以后我的小伙伴们大概只能在这里看到我瞎几把画的东西了，**虽然压根没人想看**。
 
 ---
 
@@ -31,9 +29,9 @@ date: "2025-04-07"
 
 因此，部分文章我会在我的CSDN和博客园上同步更新，就当作是引流了吧。
 
-[CSDN账号，点点关注]https://blog.csdn.net/RicesBusy?spm=1010.2135.3001.5343
+[CSDN账号，点点关注](https://blog.csdn.net/RicesBusy?spm=1010.2135.3001.5343)
 
-[博客园账号，也在同步建设页面ing]https://www.cnblogs.com/ricesbusy
+[博客园账号，也在同步建设页面ing](https://www.cnblogs.com/ricesbusy)
 
 ---
 
