@@ -17,9 +17,9 @@ title = "Rlog"
 [params.author]
    name = "一说米"
    email = "ricesbusy@gmail.com"
-   image = "img/icon_stamp2025_02.png"
+   image = "img/icon_stamp2025_01.png"
    imageQuality = 96
-   headline = "史上最帅无比聪明无人可比的梦想家"
+   headline = "史上最帅无比聪明无人可比的梦想�?"
    bio = "🎵A little bit closer🎵"
    links = [
      { email = "mailto:hello@your_domain.com" },
